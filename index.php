@@ -1,1 +1,1 @@
-<?php echo "Olá Mundo!!! 22222"; ?>
+<?php echo "Olá Mundo!!! Heroku work with Namecheap"; ?>
